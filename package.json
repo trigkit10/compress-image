@@ -1,6 +1,5 @@
 {
   "name": "@trigkit10/compress-images",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "repository": {
